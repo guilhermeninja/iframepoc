@@ -1,2 +1,2 @@
 # iframepoc
-A iframe page to maque a POC
+A iframe page to make a POC
